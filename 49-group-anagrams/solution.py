@@ -14,8 +14,3 @@ class Solution(object):
             else:
                 anagrams[count]=[el]
         return anagrams.values()
-            
-
-            
-sol=Solution()
-print(sol.groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
