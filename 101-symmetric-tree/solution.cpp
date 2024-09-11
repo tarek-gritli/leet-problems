@@ -1,5 +1,5 @@
-// Runtime: 3ms, Beats 70.22% of users with Python3
-// Memory: 17.39MB, Beats 37.62% of users with Python3
+// Runtime: 3ms, Beats 70.22% of users with C++
+// Memory: 17.39MB, Beats 37.62% of users with C++
 
 /**
  * Definition for a binary tree node.

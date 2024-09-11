@@ -1,3 +1,6 @@
+// Runtime: 13ms, Beats 97.49% of users with Java
+// Memory: 109.87MB, Beats 98.28% of users with Java
+
 class QuickUnion {
     private int[] id;
     private int[] sz;

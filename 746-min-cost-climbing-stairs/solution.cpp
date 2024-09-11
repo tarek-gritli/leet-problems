@@ -1,5 +1,5 @@
-// Runtime: 3ms, Beats 80.13% of users with Python3
-// Memory: 16.35MB, Beats 37.07% of users with Python3
+// Runtime: 3ms, Beats 80.13% of users with C++
+// Memory: 16.35MB, Beats 37.07% of users with C++
 
 class Solution {
 public:
